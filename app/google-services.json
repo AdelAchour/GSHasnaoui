@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262525866695",
+    "firebase_url": "https://gshasnaoui-d2756.firebaseio.com",
+    "project_id": "gshasnaoui-d2756",
+    "storage_bucket": "gshasnaoui-d2756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262525866695:android:25f61f4b4e64b5ef",
+        "android_client_info": {
+          "package_name": "com.prod.adelachour.gshasnaoui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262525866695-ij6qq71p42gv23b0moc9ncp7mu2v568m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prod.adelachour.gshasnaoui",
+            "certificate_hash": "5d436a924fda33325d87c01a72c1298e543c5af8"
+          }
+        },
+        {
+          "client_id": "262525866695-37s7govmh7il9812jkju9k4uqdi70hv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSZHKdL83lpS9Ee-VgMtOpagvzZw9RIpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262525866695-37s7govmh7il9812jkju9k4uqdi70hv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
